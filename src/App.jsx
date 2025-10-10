@@ -32,7 +32,9 @@ function App() {
 
               <p>Time:</p>
 
-              <p>Status: anjay</p>
+              <p>Status: test</p>
+
+              <p>hi</p>
 
               <input type="checkbox" />
             </div>
