@@ -32,7 +32,7 @@ function App() {
 
               <p>Time:</p>
 
-              <p>Status: test</p>
+              <p>Status: test123</p>
 
               <p>hi</p>
 
