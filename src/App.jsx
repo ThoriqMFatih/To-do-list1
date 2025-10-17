@@ -30,7 +30,7 @@ function App() {
 
               <p>Date:</p>
 
-              <p>Time:</p>
+              <p>Time: hhe</p>
 
               <p>Status: test123</p>
 
